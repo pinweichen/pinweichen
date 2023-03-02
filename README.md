@@ -10,7 +10,7 @@
 - Machine Learning: Regression, Classification, Clustering, Deep Learning
 - Data Analysis: Pyhon - Pandas, NumPy, SciPy, Scikit-Learn, Tensorflow, Keras | R - data.table, tidyverse, lubridate, caret
 - Data Visualization: Python - matplotlib | R - ggplot
-
+- Knowledge Base: Statistics, Neuroscience, Clinical Science, Psychology, Cell Biology
 ---
 
 ## Projects
