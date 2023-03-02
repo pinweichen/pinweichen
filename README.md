@@ -1,4 +1,4 @@
-# Pin-Wei Chen
+# Benny Pin-Wei Chen
 ### Data Scientist, Healthcare Research Scientist, Wearable Sensor Data Specialist
 
 [LinkedIn](https://www.linkedin.com/in/pinweichen/)
