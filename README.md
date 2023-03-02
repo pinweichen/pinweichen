@@ -9,7 +9,7 @@
 - Programming languages: Python, R, SQL, MATLAB
 - Machine Learning: Regression, Classification, Clustering, Deep Learning
 - Data Analysis: Pyhon - Pandas, NumPy, SciPy, Scikit-Learn, Tensorflow, Keras | R - data.table, tidyverse, lubridate, caret
-- Data Visualization: R - ggplot
+- Data Visualization: Python - matplotlib | R - ggplot
 
 ---
 
