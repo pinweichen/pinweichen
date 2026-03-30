@@ -20,6 +20,7 @@
 - **Project 1:** Detection of wheelchar user's hand movement patterns using wearable sensors and machine learning method.
 - **Project 2:** Detection of community activity of daily living of individuals experienced a stroke using wearable sensors and machine learning methods.
 - **Project 3:** Detection of sleep stages of stroke patients in an inpatient hospital using wearable sensors and a machine learning method.
+- **Project 4:** Detection of sleep-wake of pediatrics using wearable sensors and a machine learning method.
 
 ### Healthcare Data Analysis
 - **Project 1:** Examine the effect of intensive wheelchair training using kinematic data collected from motion capture data.
