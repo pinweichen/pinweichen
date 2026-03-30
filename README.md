@@ -2,7 +2,7 @@
 ### Data Scientist, Healthcare Research Scientist, Wearable Sensor Data Specialist
 
 [LinkedIn](https://www.linkedin.com/in/pinweichen/)
-
+[Personal Website](https://www.pinweichen.com/)
 ---
 
 ## Skills
